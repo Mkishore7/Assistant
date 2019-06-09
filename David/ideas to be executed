@@ -1,0 +1,3 @@
+introduce queue-> such that it is able to take multiple commands at once and solve them on priority basis,
+enable autoplay
+play music randomly using random module from 0 to songs.length()-1
